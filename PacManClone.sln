@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacManClone", "PacManClone\PacManClone.csproj", "{DF23307E-9CEF-4890-AA3C-CED4577DAE4F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PacManSetup", "PacManSetup\PacManSetup.vdproj", "{B9099139-2BE1-4AF0-A315-E006395E8F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacManCloneContent", "PacManClone\Content\PacManCloneContent.contentproj", "{FF4B47ED-FAE9-49A5-8FCA-3149638422DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF23307E-9CEF-4890-AA3C-CED4577DAE4F}.Debug|x86.ActiveCfg = Debug|x86
+		{DF23307E-9CEF-4890-AA3C-CED4577DAE4F}.Debug|x86.Build.0 = Debug|x86
+		{DF23307E-9CEF-4890-AA3C-CED4577DAE4F}.Release|x86.ActiveCfg = Release|x86
+		{DF23307E-9CEF-4890-AA3C-CED4577DAE4F}.Release|x86.Build.0 = Release|x86
+		{B9099139-2BE1-4AF0-A315-E006395E8F81}.Debug|x86.ActiveCfg = Debug
+		{B9099139-2BE1-4AF0-A315-E006395E8F81}.Release|x86.ActiveCfg = Release
+		{FF4B47ED-FAE9-49A5-8FCA-3149638422DD}.Debug|x86.ActiveCfg = Debug|x86
+		{FF4B47ED-FAE9-49A5-8FCA-3149638422DD}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

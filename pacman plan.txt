@@ -1,0 +1,7 @@
+PACMAN TODO
+- Review pacman dossier overall for more exact behaviors
+- Add pacman "slowdown" by a percent when he eats something (from dossier)
+- add start and options
+- add levels, find out what level increases do
+- tweak scatter/chase/etc times according to the dossier
+- make sure you are unloading content when pacman dies... ghosts need to be unloaded
